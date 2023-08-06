@@ -1,0 +1,107 @@
+1
+00:00:11,190 --> 00:00:16,020
+So I've said this elsewhere in the course, but I want to make it clear, for those of you who are really
+
+2
+00:00:16,020 --> 00:00:21,930
+interested in finance, beware of marketers in order to help you be more cognizant of those who might
+
+3
+00:00:21,930 --> 00:00:22,920
+be trying to trick you.
+
+4
+00:00:23,070 --> 00:00:24,490
+I'm going to make you an offer.
+
+5
+00:00:25,020 --> 00:00:31,440
+Anyone, even students who are not taking this course can message me at any time and ask me, am I taking
+
+6
+00:00:31,440 --> 00:00:33,480
+a finance course taught by a marketer?
+
+7
+00:00:34,140 --> 00:00:39,330
+Of course, I can only speak to the courses where I've seen the content myself, but the few that I
+
+8
+00:00:39,330 --> 00:00:41,520
+have seen are ridiculously bad.
+
+9
+00:00:42,060 --> 00:00:45,240
+Bad enough that it prompted me to make this lecture to warn you.
+
+10
+00:00:45,810 --> 00:00:50,880
+Now, I won't tell you which course it is or which instructor it is, but I will give you a yes or no
+
+11
+00:00:50,880 --> 00:00:54,580
+answer telling you whether or not you are taking such a course.
+
+12
+00:00:55,830 --> 00:01:01,290
+Typically, these courses claim to teach you things like predicting stock prices with storms and they
+
+13
+00:01:01,290 --> 00:01:05,350
+will show you results like this with nearly perfect stock price predictions.
+
+14
+00:01:05,880 --> 00:01:09,840
+Of course, those who are competent in finance know that this is nonsense.
+
+15
+00:01:10,320 --> 00:01:15,750
+I'll also include details about what mistakes to look for in these courses so you can verify for yourself
+
+16
+00:01:15,990 --> 00:01:17,890
+why what they are teaching is dubious.
+
+17
+00:01:18,480 --> 00:01:23,980
+I've heard that they are still making these mistakes and other possibly worse mistakes to this day.
+
+18
+00:01:24,630 --> 00:01:29,460
+In other words, thousands and thousands of students have been learning wrong and incorrect material
+
+19
+00:01:29,460 --> 00:01:30,340
+for years.
+
+20
+00:01:30,780 --> 00:01:35,490
+Believe me, if you ever try to use something like this as part of your portfolio, when you're trying
+
+21
+00:01:35,490 --> 00:01:38,190
+to get a job, nobody will take you seriously.
+
+22
+00:01:38,730 --> 00:01:40,320
+So that's my offer to you.
+
+23
+00:01:40,800 --> 00:01:45,840
+If you would like to know whether or not one of the courses you are taking is taught by a known a fake
+
+24
+00:01:45,840 --> 00:01:48,230
+data scientist, just send me a message.
+
+25
+00:01:48,600 --> 00:01:54,870
+You can do that either on this platform or you can go to my Web site at lezzy program or me either way
+
+26
+00:01:54,870 --> 00:01:55,480
+is fine.
+
+27
+00:01:55,890 --> 00:01:57,990
+Thanks for listening and I'll see you in the next lecture.
